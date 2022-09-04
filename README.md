@@ -1,3 +1,8 @@
+Ce projet a été réalisé dans le cadre de ma formation en React Native.
+Il s'agit d'un quiz sur mobile réalisé intégralement en React Native.
+
+Utiliser le projet avec Expo :
+
 # Sample Snack app
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
