@@ -105,60 +105,55 @@ const data = [
   ],
   [
     {
-        question: "Vous pensiez vraiment que ça allait être sur de la Culture Informatique.. ?",
-        options: ["Oui", "Non"],
-        correct_option: "Non"
+        question: "Quel est le nom du 46eme président des Etats-Unis ?",
+        options: ["Joe Biden","Donald Trump","Barack Obama","George W. Bush"],
+        correct_option: "Joe Biden"
     },
     {
-        question: "Quelle est la taille du brakmar de Benjamin Waston (en mode combat) ?",
-        options: ["8cm","22cm","16cm","15cm"],
-        correct_option: "22cm"
+        question: "Quelle est la capitale du Sri Lanka ?",
+        options: ["Tananarive","Colombo","Sri Jayawardenapura Kotte","Vientiane"],
+        correct_option: "Sri Jayawardenapura Kotte"
     },
     {
-        question: "Qui parmis les B2 aime le plus se prendre des doigts dans le fion ?",
-        options: ["Thibault","Pierrick","Aurélien","Rémi S."],
-        correct_option: "Aurélien"
+        question: "En quelle année est mort Jacques Chirac ?",
+        options: ["2018","2019","2017","2020"],
+        correct_option: "2019"
     },
     {
-        question: "Qui a les pets les plus odorants ?",
-        options: ["Rémi P.","Florimond","Thibault","Aya"],
-        correct_option: "Aya"
+        question: "Combien y a-t-il d'états membres dans l'union européenne ? ",
+        options: ["24","29","26","27"],
+        correct_option: "27"
     },
     {
-        question: "Quel est le nom du médecin de la daronne à Aurélien ?",
-        options: ["Ambroise Paré","Emile Roux","Johnny Sins","Jean-Paul Escouflaire"],
-        correct_option: "Johnny Sins"
+        question: "Quelle est la planète la plus éloignée du soleil ?",
+        options: ["Uranus","Pluton","Neptune","Venus"],
+        correct_option: "Neptune"
     },
     {
-        question: "Qui est le meilleur intervenant de l'EPSI (Objectivement) ?",
-        options: ["Khalid Gaber","Katayoun Pennec","Rudy Delcambre","Rachid Briki"],
-        correct_option: "Khalid Gaber"
+        question: "Quel célèbre dictateur dirigea l’URSS du milieu des années 1920 à 1953 ?",
+    options: ["Molotov","Trotski","Staline","Lénine"],
+        correct_option: "Staline"
     },
     {
-      question: "Qui est le pire intervenant de l'EPSI (<3) ?",
-      options: ["Nahim Benbalouli","Nahim Benbahlooli","Nahim Benbahlloulli","Nahim Benbahlouli"],
-      correct_option: "Nahim Benbahlouli"
+        question: "Quel pays a remporté la coupe du monde de football en 2014 ",
+        options: ["L'Argentine","L'Italie","L'Allemagne","Le Brésil"],
+        correct_option: "L'Allemagne"
     },
     {
-      question: "A quoi sert le pack EPSI ?",
-      options: ["Obtenir des licences qui expirent l'année prochaine","Obtenir la suite Adobe en milieu d'année","Nous voler plus de thunes","Toutes les propositions"],
-      correct_option: "Toutes les propositions"
+        question: "Qui était le dieu de la guerre dans la mythologie grecque ? ",
+        options: ["Arès","Hermès","Hadès","Apollon"],
+        correct_option: "Arès"
     },
     {
-      question: "Quel est le prenom originel de M.Bouffe ?",
-      options: ["Patrick","Patroche","Pierrick","Jean-Pascal"],
-      correct_option: "Patrick"
+        question: "Quel est le plus long fleuve de France selon la partie coulant sur le territoire ",
+        options: ["Le Rhône","La Loire","Le Rhin","La Seine"],
+        correct_option: "Le Rhône"
     },
     {
-      question: "Qui ne boit pas sa pisse ?",
-      options: ["Aurélien","Rémi S.","Rémi P.","Paul"],
-      correct_option: "Paul"
+        question: "Quel ville est surnommé « big Apple » aux USA ? ",
+        options: ["Washington","Seatle","New York","Los Angeles"],
+        correct_option: "New York"
     },
-    {
-      question: "Quel est le secret de Patrick ?",
-      options: ["Il a tout le temps la trique","Il est homosexuel avec Aurélien","Il chie en 20s","Il est le sosie officiel de Chewbacca"],
-      correct_option: "Il chie en 20s"
-    }
   ]
 ]
 
